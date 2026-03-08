@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m a student at heu
+- 🌱 I’m currently learning ai
+- - 🤔 I’m looking for help with ai
 <!--
 **FoolishJoy/Foolishjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
